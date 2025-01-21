@@ -12,7 +12,11 @@ This is a binary classification problem where the goal is to predict whether a p
 
 ### Features:
 Demographic factors (e.g., Age, Gender)
+
 Lifestyle habits (e.g., Sleep Duration, Dietary Habits)
+
 Work-related stress (e.g., Work Pressure, Financial Stress)
+
 Mental health history (e.g., Family History of Mental Illness)
+
 Target Variable: "Depression" (Yes/No), which serves as an indicator of severe depression.
